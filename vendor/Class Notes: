@@ -1,0 +1,29 @@
+Class Notes:
+
+restful: a set of best practices of how we build up url's using post, get, put/patch, delete
+
+deals with collections and members of the collection by using urls such as
+
+example.com/restaurants = collection
+example.com/restaurants/Nandos = member of collection
+
+enables us to update single restaurants or all restaurants
+
+
+action and href are the same thing, they point to a url
+
+
+IDEA:
+
+Allow users to leave a review
+You will be able to show many more providers than they will know of e.g Intertec, WSP
+Need a provider to produce certificates
+
+
+
+Adding users:
+
+Use Devise for user sign up from Github
+
+rails generate devise something look at devise readme.  required for to finish it??
+
